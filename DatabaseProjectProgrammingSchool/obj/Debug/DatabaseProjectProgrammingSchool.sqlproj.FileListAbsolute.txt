@@ -1,9 +1,0 @@
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/bin/Debug/DatabaseProjectProgrammingSchool.dacpac
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/bin/Debug/DatabaseProjectProgrammingSchool.dll
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/bin/Debug/DatabaseProjectProgrammingSchool.pdb
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/Model.xml
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/refactor.xml
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/postdeploy.sql
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/predeploy.sql
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/DatabaseProjectProgrammingSchool.dll
-/Users/vipulsingh/Projects/Vipul/DatabaseProjectProgrammingSchool/obj/Debug/DatabaseProjectProgrammingSchool.pdb
